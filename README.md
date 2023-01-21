@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: Perfection is a myth</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: Perfection is a myth</p>
 
 ###
 
